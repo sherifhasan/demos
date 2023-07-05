@@ -1,0 +1,382 @@
+{
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1531677,
+          "lng": 11.4790411
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name": "Vitalis Fitness-Sauna-Wellness",
+      "rating": 4.5,
+      "user_ratings_total": 219
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1509811,
+          "lng": 11.4614428
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Cantina in der Pasinger Fabrik OHG",
+      "price_level": 2,
+      "rating": 4.1,
+      "types": [
+        "restaurant",
+        "cafe",
+        "bar",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 381
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1561298,
+          "lng": 11.4609249
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Speisemeisterei La Trattoria",
+      "opening_hours": {
+        "open_now": true
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 897
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1642953,
+          "lng": 11.475845
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Zum Grünen Baum",
+      "price_level": 2,
+      "rating": 4.4,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1450
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1631841,
+          "lng": 11.4570737
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Blutenburg Castle",
+      "opening_hours": {
+        "open_now": true
+      },
+      "rating": 4.4,
+      "types": [
+        "restaurant",
+        "tourist_attraction",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3225
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1649,
+          "lng": 11.4593
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+      "name": "JET Tankstelle",
+      "rating": 4.2,
+      "types": [
+        "gas_station",
+        "supermarket",
+        "book_store",
+        "cafe",
+        "grocery_or_supermarket",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 446
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1462054,
+          "lng": 11.4637145
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Bayerisches Schnitzel- & Hendlhaus Pasing",
+      "price_level": 1,
+      "rating": 3.8,
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 532
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1645841,
+          "lng": 11.4650984
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Bäckerei Aumüller",
+      "price_level": 2,
+      "rating": 4.3,
+      "types": [
+        "bakery",
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 358
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1527266,
+          "lng": 11.4769836
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "Vinzenzmurr Metzgerei - München - Pasing",
+      "rating": 4.6,
+      "types": [
+        "meal_takeaway",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1451857,
+          "lng": 11.4746374
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Vietnam Quan",
+      "rating": 3,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 101
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1505204,
+          "lng": 11.461943
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Müller Brot",
+      "price_level": 2,
+      "rating": 2.9,
+      "types": [
+        "bakery",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1479606,
+          "lng": 11.4645647
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Subway",
+      "price_level": 2,
+      "rating": 3.3,
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 335
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.145964,
+          "lng": 11.465373
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "India KING",
+      "rating": 4,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 146
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.164845,
+          "lng": 11.474606
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "Vinzenzmurr Metzgerei - München - Obermenzing",
+      "rating": 4.1,
+      "types": [
+        "meal_takeaway",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 27
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1486597,
+          "lng": 11.462362
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Quán Sen",
+      "price_level": 1,
+      "rating": 3.3,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 223
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.14916019999999,
+          "lng": 11.4616064
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Pommes Freunde",
+      "price_level": 2,
+      "rating": 3.7,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 499
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.147667,
+          "lng": 11.463771
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Mamma's",
+      "rating": 3.7,
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 184
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.147734,
+          "lng": 11.4637101
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Henry's Deli",
+      "rating": 3.9,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 99
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.1495024,
+          "lng": 11.4604364
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Thai Fresh Cuisine",
+      "price_level": 2,
+      "rating": 4.5,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 579
+    }
+  ]
+}
