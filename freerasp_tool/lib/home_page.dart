@@ -10,9 +10,8 @@ class HomePage extends HookWidget {
     final threatState = useState('');
     useEffect(() {
       Future.microtask(() async {
-        /// add your key hash
         final base64Hash = hashConverter.fromSha256toBase64(
-            '');
+            '6F:B1:3E:85:9E:B8:4E:18:BE:50:A4:50:E6:A7:7E:8B:F1:FB:44:A2:E5:AD:9A:6D:E0:FB:1D:60:1A:88:F7:6B');
         final config = TalsecConfig(
           /// For Android
           androidConfig: AndroidConfig(
@@ -21,19 +20,17 @@ class HomePage extends HookWidget {
           ),
 
           /// For iOS
-          /// teamid and watcher to send threat report to it
           iosConfig: IOSConfig(
             bundleIds: ['com.demos.freerasp_tool'],
-            teamId: '',
+            teamId: 'D2A8ZV8F9B',
           ),
-          watcherMail: '',
+          watcherMail: 'sherif.hasan1994@gmail.com',
         );
         await Talsec.instance.start(config);
         Talsec.instance.onThreatDetected.listen((threat) {
           threatState.value = 'Threat detected: $threat';
         });
       });
-
       return null;
     });
 
