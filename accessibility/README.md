@@ -1,10 +1,9 @@
 # accessibility
 
-Accessibility sample
+Accessibility demo <br />
  
-
-Platform    | Android| iOS | Web |
-Screen reader|  TRUE  | TRUE | TRUE |
-Font size    | TRUE   | TRUE | TRUE |
-Contrast    | TRUE    | TRUE | TRUE |
-Colors      | TRUE    | TRUE | TRUE |
+Platform    | Android| iOS | Web | <br />
+Screen reader|  TRUE  | TRUE | TRUE | <br />
+Font size    | TRUE   | TRUE | TRUE | <br />
+Contrast    | TRUE    | TRUE | TRUE | <br />
+Colors      | TRUE    | TRUE | TRUE | <br />
