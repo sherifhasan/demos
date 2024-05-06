@@ -13,6 +13,8 @@ class AppTheme {
       color: AppColors.blue,
       iconTheme: IconThemeData(color: AppColors.white),
     ),
-    colorScheme: ColorScheme.fromSeed(seedColor: AppColors.blue),
+    colorScheme: ColorScheme.fromSeed(
+      seedColor: AppColors.blue,
+    ).copyWith(primary: Colors.green, secondary: Colors.blue),
   );
 }
