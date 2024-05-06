@@ -12,7 +12,7 @@ class AppColors {
   static const Color backgroundOverlay = Color(0xAA000000);
   static const Color purple = Color(0xFF958BD0);
   static const Color lightPurple = Color(0xFFD9D2EE);
-  static const Color blue = Color(0xFF2A1FA4);
+  static const Color blue = Colors.blue;
   static const Color lightBlue = Color(0xFF788BC0);
   static const Color yellow = Color(0xFFF8D68C);
   static const Color yellowWithHalfOpacity = Color.fromRGBO(251, 234, 197, 1.0);
@@ -23,7 +23,7 @@ class AppColors {
   static const Color lightGrey = Color(0xFFD2D5E1);
   static const Color darkGrey = Color(0xFF333333);
   static const Color cloudDarker = Color(0xFFBAC7D5);
-  static const Color white = Color(0xFFFFFFFF);
+  static const Color white = Colors.white;
   static const Color orange = Color(0xFFEAA343);
   static const Color orangeWithHalfOpacity = Color.fromRGBO(244, 209, 161, 1.0);
   static const Color mint = Color(0xFFB9DFDC);

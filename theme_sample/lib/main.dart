@@ -25,6 +25,13 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: Text('Flutter App Theme',
+            style: Theme.of(context).textTheme.titleLarge!.copyWith(
+                  color: Theme.of(context).colorScheme.onSecondary,
+                )),
+        backgroundColor: Theme.of(context).colorScheme.secondary,
+      ),
       body: SafeArea(
         child: Center(
           child: Column(
